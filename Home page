@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+        <title>Hello, world!</title>
+
+    	<meta charset="utf-8" />
+
+     
+
+        <HTML>
+
+<HEAD><TITLE><CENTER>My College</CENTER></TITLE></HEAD>
+
+<BODY BGCOLOR="ORANGE">
+
+<FONT SIZE="7" FACE="ARIAL" COLOR="BLUE"><CENTER>SVPM college of engineering, malegoan (bk)
+
+
+
+<BODY BGCOLOR="RED"><CENTER>
+
+<font size="2" face="arial" color="blue"<B>Branch</B></font><BR>
+
+<font size="2" face="arial" color="red"<B>IT</B></font><BR>
+
+<font size="2" face="arial" color="green"<I>Computer Science</I></font><BR>
+
+<font size="2" face="arial" color="brown"<U>civil</U></font><BR>
+
+<BODY BGCOLOR="PINK"<CENTER>
+
+<font size="2" face="arial" color="yellow"<B>Mechanical</B></font><BR>
+
+<font size="2" face="arial" color="brown"<I>ENTC</I></font><BR>
+
+<font size="2" face="arial" color="grey"<U>Electrical</U></font><BR>
+
+
+
+        
+
+    </head>
+
+    <body>
+
+    
+
+    </body>
+
+    </html>
