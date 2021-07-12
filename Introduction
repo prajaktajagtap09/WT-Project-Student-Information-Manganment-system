@@ -1,0 +1,29 @@
+ INTRODUCTION:
+The objective of student information system is to allow the administrator of any organisation to idiot and find out the personal details of student and allows the student to keep up to date his profile it’s also keeping all the record of student such as their ID name mailing address phone number date of birth etc. So all the information about the student will be available in a few second
+Overall it will make sure student information management and easier job for the administrator and the student of any organisation
+The main purpose of this document is to illustrate the requirement of the project student information system and is intended to help any organisation to maintain  and manage it student personal data
+
+ABSTRACTS:
+ Student information management system provides a simple interface for maintenance of student information.
+It can be used by educational institute or colleges to maintain the records of students easily.
+the creation and management of accurate up to date information regarding a student’s academic career is critically important in the university as well as colleges.
+Student information system deals with all kind of student details,academic related reports ,College details, course details, match details ,placement details and other resources related details too.
+
+
+OBJECTIVE:
+Home page of student information management system.
+Login page for admin.
+Online registration of students.
+Display result of students.
+
+USER VIEW:
+      Student
+
+OPERATING SYSTEM:
+      Microsoft Windows
+
+TECHNOLOGY USED:
+              HTML
+              CSS
+              JavaScript
+              SQL
